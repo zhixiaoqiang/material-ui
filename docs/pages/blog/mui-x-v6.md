@@ -3,7 +3,7 @@ title: Introducing MUI X v6
 description: Introducing the new major version of the advanced components.
 date: 2023-03-06T00:00:00.000Z
 authors: ['josefreitas']
-card: true
+manualCard: true
 tags: ['MUI X', 'Product']
 ---
 
@@ -284,7 +284,7 @@ Here's a list of what you can expect to be delivered in the following months (wh
 
 - Preview of chart components 🔥 ([mui-x#1408](https://github.com/mui/mui-x/issues/1408))
 
-You can get more details of our next steps in [MUI X public roadmap](https://github.com/mui/mui-x/projects/1).
+You can get more details of our next steps in [MUI X public roadmap](https://github.com/orgs/mui/projects/35).
 
 ## Decoupling versions from MUI Core
 

@@ -4,7 +4,7 @@ description: We are excited to introduce MUI X v5.0.0!
 date: 2021-11-22T00:00:00.000Z
 authors:
   ['oliviertassinari', 'm4theushw', 'flaviendelangle', 'DanailH', 'alexfauquette']
-card: true
+manualCard: true
 tags: ['MUI X', 'Product']
 ---
 
@@ -212,7 +212,7 @@ We plan to focus on it as long as necessary to deliver most of the advanced feat
 
 Once we would have grown the team and made enough progress, we will expand to more components.
 
-You can view our [public roadmap](https://github.com/mui/mui-x/projects/1) on GitHub to learn about what features we're working on, what stage they're at, and when we expect to bring them to you.
+You can view our [public roadmap](https://github.com/orgs/mui/projects/35) on GitHub to learn about what features we're working on, what stage they're at, and when we expect to bring them to you.
 
 ## Thank you
 
